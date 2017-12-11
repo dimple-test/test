@@ -1,2 +1,3 @@
 My git file
 added new line
+git session
